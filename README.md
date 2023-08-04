@@ -1,2 +1,6 @@
-# decision_tree
-Clustering with Decision Tree &amp; Random Forest
+# Cluster
+Machine learning clustering 
+
+## Use
+- Decision Tree 
+- Random Forest
