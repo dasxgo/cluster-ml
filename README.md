@@ -1,6 +1,6 @@
 # Cluster
 Machine learning clustering 
 
-## Use
+## Contents
 - Decision Tree 
 - Random Forest
